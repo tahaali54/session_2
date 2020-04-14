@@ -1,6 +1,6 @@
-# Flutter Training - Session 2
+# Gmail Homepage UI Layout
 
-This session was focused on building UI layouts and what should be the thinking process when tasked with replicating a design.
+This session focuses on building UI layouts and what should be the thinking process when tasked with replicating a design.
 
 ## Description
 
